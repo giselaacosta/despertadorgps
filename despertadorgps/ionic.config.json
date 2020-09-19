@@ -1,7 +1,8 @@
 {
   "name": "despertadorgps",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
